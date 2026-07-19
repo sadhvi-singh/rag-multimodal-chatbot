@@ -1,0 +1,30 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# API keys / secrets
+*.key
+secrets.json
+credentials.json
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Large data / model artifacts (uncomment if you add these later)
+# *.faiss
+# *.index
+# data/raw/
+# models/
